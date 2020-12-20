@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam&display=swap');
+
+.button {
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    font-weight: 400px;
+    border: none;
+    border-radius: 100px;
+    padding: 5px 15px;
+    font-family: 'Be Vietnam', sans-serif;
+    width: 140px;
+}
+
+.button:hover {
+    background-color: hsl(12, 88%, 59%);
+    opacity: 70%;
+}
+.menu {
+    margin-top: 10px;
+}
+
+.cardimage {
+    margin: auto;    
+    display: block;
+}
+.list-bullets {
+    margin: auto;
+}
+
+.button-2 {
+    background-color: white;
+    color: hsl(12, 88%, 59%);
+    font-weight: 400px;
+    border: none;
+    border-radius: 100px;
+    padding: 5px 15px;
+    font-family: 'Be Vietnam', sans-serif;
+    width: 140px;
+}
+
+.button-2:hover {
+    opacity: 70%;
+}
+
+.white-button
+{
+    display: flex;
+    align-items: center;
+}
+.logo-and-icons {
+    display: flex;
+    align-items: center;
+}
+
+.form
+{
+    border-radius: 100px;
+    margin-right: 5px;
+    border: none;
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 15px;
+}
+
+.footer-link {
+    color: white;
+    padding: 5px;
+}
+
+.social-media {
+    padding-right: 5px;
+}
+
+
+
+ .second-last {
+    background-image:url('file:///C:/Users/sarkars/OneDrive%20-%20Microsoft/Documents/Sukalpa/manage-landing-page-master/manage-landing-page-master/images/bg-tablet-pattern.svg');
+    background-size: 20%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: 110% -200px;
+    background-blend-mode:soft-light;
+ }
